@@ -1,10 +1,10 @@
-# Microsoft Teams Conversational Bot with GPT: Teams Chef
+# Microsoft Teams Conversational Bot with Teams AI Library: Teams Chef
 
-This is a conversational bot for Microsoft Teams that thinks it's a Chef to help you cook Teams apps. The bot uses the text-davinci-003 model to chat with Teams users and respond in a polite and respectful manner, staying within the scope of the conversation.
+This is a conversational bot for Microsoft Teams that impersonates a chef to help you cook Teams apps. The bot uses the text-davinci-003 model to chat with Teams users and respond in a polite and respectful manner, staying within the scope of the conversation.
 
 This sample illustrates basic conversational bot behavior in Microsoft Teams. The bot is built to allow GPT to facilitate the conversation on its behalf, using only a natural language prompt file to guide it.
 
-It shows M365 botbuilder SDK capabilities like:
+It showcases capabilities of [Teams AI Library](https://aka.ms/Teams-AI-Library):
 
 <details open>
     <summary><h3>Conversational bot scaffolding</h3></summary>
@@ -133,3 +133,4 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](htt
 
 -   [How Microsoft Teams bots work](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics-teams?view=azure-bot-service-4.0&tabs=javascript)
 -   [Build a bot by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/teams-toolkit-vsc-create-bot/)
+- [Build apps with Teams AI Library](https://aka.ms/Teams-AI-Library)
