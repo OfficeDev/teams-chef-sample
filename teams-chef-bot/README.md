@@ -115,9 +115,9 @@ This bot has been created using [Bot Framework](https://dev.botframework.com).
 
 If everything worked well, you should have the following flow at the end after pressing F5:
 
-![The app is ready to be installed in Microsoft Teams](/assets/TeamsChef001.jpg "The app is ready to be installed in Microsoft Teams")
+![The app is ready to be installed in Microsoft Teams](assets/TeamsChef001.jpg "The app is ready to be installed in Microsoft Teams")
 
-![The AI Chat bot is working properly and answers questions as expected](/assets/TeamsChef002.jpg "The AI Chat bot is working properly and answers questions as expected")
+![The AI Chat bot is working properly and answers questions as expected](assets/TeamsChef002.jpg "The AI Chat bot is working properly and answers questions as expected")
 
 ## Interacting with the bot
 
